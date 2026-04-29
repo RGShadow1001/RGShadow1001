@@ -64,7 +64,7 @@ the Server acts as the "Memory," and the ESP32 acts as the "Muscles."
 
 | Component  | Specification                            | Purpose                                 |
 | :--------- | :--------------------------------------- | :-------------------------------------- |
-| **GPU**    | **NVIDIA RTX 4060 Ti (16GB VRAM)**       | Local Fine-Tuning & CUDA Acceleration   |
+| **GPU**    | **NVIDIA RTX 5060 Ti (16GB VRAM)**       | Local Fine-Tuning & CUDA Acceleration   |
 | **CPU**    | **Intel i5-12400F** (Upgrading to i7-14) | Multithreaded Logic & AI Pre-processing |
 | **Edge**   | **ESP32-S3 (N16R8)**                     | Real-time Robotics Controller           |
 | **Server** | **Headless i3-M330 (6GB)**               | IoT Broker & Deployment Node            |
