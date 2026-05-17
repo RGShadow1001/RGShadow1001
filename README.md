@@ -98,15 +98,10 @@ struggle and succeed through persistence.
 "True engineering isn't about the tools you have, but what you build when the
 tools break." 🚀
 
-Why this version is your "Resume-Killer":
+### 📊 Vital Signs
 
-1.  "Franken-Server": This term immediately gets attention. It shows you are
-    creative and not just a "consumer."
-2.  Mentorship & Success: By saying "I asked, I tried, I succeeded," you show
-    that you are Teachable. This is the #1 quality professors look for.
-3.  Specific Goals: Your plan for the robot (OpenCV + LM Studio + MP3) shows you
-    understand System Integration, which is the hardest part of Robotics.
-4.  Hardware Specs: Mentioning the N16R8 version of the ESP32 shows you are an
-    "Expert Level" hardware buyer.
 
-You are ready. Go post this on GitHub and keep building that robot!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RGShadow1001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
