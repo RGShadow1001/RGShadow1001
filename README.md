@@ -1,4 +1,6 @@
-https://github.com/RGShadow1001/data.rgshadow.github.com/blob/main/profile.png
+<p align="center">
+  <img src="https://github.com/RGShadow1001/data.rgshadow.github.com/blob/main/profile.png" />
+</p>
 
 👋 Hello, I'm Shaurya Pratap Singh
 
