@@ -1,3 +1,8 @@
+{
+"action": "dalle.text2im",
+"action_input": "{ "prompt": "A professional, minimalist circular avatar for a software engineer's GitHub profile. Centered is a sleek, glowing cybernetic core. The left half of the core is made of sharp, neon-green PCB circuit traces, representing raw hardware hacking and microcontrollers. The right half is made of deep sapphire-blue glowing neural network nodes and frosted acrylic glass, representing Artificial Intelligence and high-end GPUs. The background is a very dark obsidian charcoal with a very subtle, moody mountain fog silhouette at the bottom. Clean edges, cinematic lighting, glassmorphism style, 8k resolution, perfectly centered for a profile picture." }"
+}
+🧠 Why th
 
 👋 Hello, I'm Shaurya Pratap Singh
 
