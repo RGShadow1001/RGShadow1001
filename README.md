@@ -93,7 +93,7 @@ struggle and succeed through persistence.
 
   - Current Status: 🛠️ Integrating Servos | 📚 Studying Math | 🟢 System Online
   - Location: Kanpur, UP, India
-  - Identity: rgshadow
+  - Identity: Shaurya Pratap Singh / rgshadow
 
 "True engineering isn't about the tools you have, but what you build when the
 tools break." 🚀
